@@ -1,0 +1,63 @@
+
+
+body {
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: aquamarine;
+}
+
+
+#counter {
+    
+    height: 200px;
+    padding: 15%;
+    box-sizing: border-box;
+    
+
+}
+#Inc {
+    
+    font-size: 15px;
+    text-align: center;
+    background-color: darkgrey;
+    color:  whitesmoke;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 25px;
+    font-weight: bold;
+    
+}
+
+
+#Dec {
+    
+    font-size: 15px;
+    text-align: center;
+    background-color: darkgrey;
+    color:  whitesmoke;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 25px;
+    font-weight: bold;
+    
+}
+
+#Inc:hover {
+    background-color: lightseagreen;
+}
+
+#Dec:hover {
+    background-color: lightseagreen;
+}
+
+#number {
+
+  margin: 15px;
+  
+}
